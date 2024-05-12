@@ -32,15 +32,15 @@ Read more on our API documentation to learn how to use these features. 📄
 ### Essential Links 🔗
 
 * **API Endpoint** 📍: [https://pumpapi.fun/api](https://pumpapi.fun/api) - Make API requests here
-* **Documentation** 📄: [https://pumpfunapi.mintlify.app/](https://pumpfunapi.mintlify.app/) - Learn how to use our API
+* **Documentation** 📄: [https://docs.pumpapi.fun/](https://docs.pumpapi.fun/) - Learn how to use our API
 
 ### Featured Endpoints 🎉
 
-* **Swap Quotes** 💸: [https://pumpfunapi.mintlify.app/quote_api](https://pumpfunapi.mintlify.app/quote_api) - Get swap quotes for any pump.fun tokens
-* **Newer Mints Tokens** 🎁: [https://pumpfunapi.mintlify.app/special/newer_mints](https://pumpfunapi.mintlify.app/special/newer_mints) - Fetch tokens from newer mints
-* **Token Metadata** 📊: [https://pumpfunapi.mintlify.app/data/token_metadata](https://pumpfunapi.mintlify.app/data/token_metadata) - Fetch specific token metadata
-* **Multi-Trade with Multiple Wallets** 💼: [https://pumpfunapi.mintlify.app/special/multitrade](https://pumpfunapi.mintlify.app/special/multitrade) - Trade with multiple wallets at once
-* **Trades by Tokens** 📈: [https://pumpfunapi.mintlify.app/special/trades_on_token](https://pumpfunapi.mintlify.app/special/trades_on_token) - Get trades for specific tokens
+* **Swap Quotes** 💸: [https://docs.pumpapi.fun/quote_api](https://docs.pumpapi.fun/quote_api) - Get swap quotes for any pump.fun tokens
+* **Newer Mints Tokens** 🎁: [https://docs.pumpapi.fun/special/newer_mints](https://docs.pumpapi.fun/special/newer_mints) - Fetch tokens from newer mints
+* **Token Metadata** 📊: [https://docs.pumpapi.fun/data/token_metadata](https://docs.pumpapi.fun/data/token_metadata) - Fetch specific token metadata
+* **Multi-Trade with Multiple Wallets** 💼: [https://docs.pumpapi.fun/special/multitrade](https://docs.pumpapi.fun/special/multitrade) - Trade with multiple wallets at once
+* **Trades by Tokens** 📈: [https://docs.pumpapi.fun/special/trades_on_token](https://docs.pumpapi.fun/special/trades_on_token) - Get trades for specific tokens
 
 ### And More... 🤔
 
